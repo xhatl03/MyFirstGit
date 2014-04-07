@@ -16,6 +16,5 @@ public class MyFirstGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("is it working?");
-        System.out.println("not sure yet!");
     }
 }
